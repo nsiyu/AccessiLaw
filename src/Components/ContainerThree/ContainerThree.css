@@ -1,0 +1,30 @@
+.diversimg {
+    height: 500px;
+    height: 500px;
+    padding-left: 39rem;
+}
+
+.container-three {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    text-align: center;
+    justify-content:space-between;
+    /* background-image: url('/src/Components/ContainerThree/images.jfif');
+    background-repeat: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+}
+
+.text{
+    width: 45%;
+    padding-top: 10rem;
+    padding-right: 36rem;
+   
+}
+
+.beyond {
+    padding-bottom: 5%;
+}

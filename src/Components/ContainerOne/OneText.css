@@ -1,0 +1,40 @@
+.one-text{
+    padding-top: 12%;
+}
+
+.one-text-p {
+    width: 40%;
+    margin-bottom: 10%;
+    font-weight: lighter;
+    
+}
+
+.one-text-h1 {
+    width: 80%;
+    font-size: 5rem;
+    padding-bottom: 1rem;
+    
+}
+
+.extension-button {
+    border-radius: 5px;
+    border: 0;
+    height: 7%;
+    width: 25%;
+    background-color: orange;
+    font-family: Montserrat;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none; 
+    color:white;
+}
+
+.extension-button:hover {
+    border: black solid;
+    
+}
+
+.can:visited {
+    text-decoration: none; 
+    color:white;
+}
