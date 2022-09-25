@@ -8,6 +8,16 @@
     color: orange;
 }
 
+.title {
+    text-decoration: none;
+    color: orange;
+}
+
+.title:visited {
+    text-decoration: none;
+    color: orange;
+}
+
 
 /* Style The Dropdown Button */
 .dropbtn {

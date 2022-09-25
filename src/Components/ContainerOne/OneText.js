@@ -9,7 +9,7 @@ const OneText = () => {
         AccessiLaw's new free Google Chrome extension.
       </p>
       <button className="extension-button">Download Extension</button>
-      <button className="extension-button1">Try Demo</button>
+      <a href="#demo"><button className="extension-button1" >Try Demo</button></a>
     </div>
   );
 };
