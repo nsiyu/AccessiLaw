@@ -3,7 +3,7 @@ import ContainerOne from "./Components/ContainerOne/ContainerOne";
 import ContainerTwo from "./Components/ContainerTwo/ContainerTwo";
 import ContainerThree from "./Components/ContainerThree/ContainerThree";
 import ContainerFour from "./Components/ContainerFour/ContainerFour";
-import Footer from "./Components/Footer/Footer";
+
 import './App.css';
 function App() {
   return (
@@ -15,7 +15,9 @@ function App() {
       <ContainerThree/>
       <hr id = 'demo'></hr>
       <ContainerFour/>
-      <Footer/>
+      <hr id = 'demo'></hr>
+      
+
     </div>
   );
 }

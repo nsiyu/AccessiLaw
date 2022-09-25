@@ -7,6 +7,7 @@ const NavItem = (props) => {
       <div className="dropdown-content">
         <a href="#yourContentIdHere">About</a>
         <a href="#demo">Demo</a>
+        <a href="#support">Support</a>
       </div>
     </div>
   );
