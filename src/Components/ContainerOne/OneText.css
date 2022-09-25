@@ -29,8 +29,28 @@
     color:white;
 }
 
+.extension-button1 {
+    border-radius: 5px;
+    border: 0;
+    height: 7%;
+    width: 25%;
+    background-color: white;
+    font-family: Montserrat;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none; 
+    color:orange;
+    margin-left: 3em;
+    border: orange solid;
+}
+
 .extension-button:hover {
-    border: black solid;
+    background-color: orangered;
+    
+}
+
+.extension-button1:hover {
+    background-color: whitesmoke;
     
 }
 
