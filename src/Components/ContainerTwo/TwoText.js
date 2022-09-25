@@ -3,7 +3,7 @@ import "./TwoText.css";
 const TextTwo = () => {
   return (
     <div className="text-two">
-      <h1 className="two-h1">Works Where You Do</h1>
+      <h1 id = 'about'className="two-h1">Works Where You Do</h1>
       <p className="two-p">
         Recieve accurate legal definitions and supported translations from
         AccessiLaw while you browse through legal documents. AccessiLaw is free

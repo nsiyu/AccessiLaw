@@ -1,9 +1,15 @@
-import './NavItem.css';
-
+import "./NavItem.css";
+import { IoIosArrowDropdown } from 'react-icons/io';
 const NavItem = (props) => {
-    return (
-        <button className='nav-button'><a href='#yourContentIdHere' className='anchor-button'>{props.content}</a></button>
-    )
-}
+  return (
+    <div className="dropdown">
+      <button className="dropbtn">Menu <IoIosArrowDropdown/></button>
+      <div className="dropdown-content">
+        <a href="#yourContentIdHere">About</a>
+        <a href="#demo">Demo</a>
+      </div>
+    </div>
+  );
+};
 
 export default NavItem;
