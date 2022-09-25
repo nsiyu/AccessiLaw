@@ -10,4 +10,5 @@
 .card {
     padding: 0 2%;
     margin: 0 120px;
+    border: 1em lightblue solid;
 }
