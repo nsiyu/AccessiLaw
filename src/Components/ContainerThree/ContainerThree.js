@@ -12,7 +12,7 @@ const ContainerThree = () => {
         <h1 className="beyond">Beyond Law and Definitions</h1>
         <p>
           From Law terminology to translations, we've got you covered, but at
-          AccessLaw our main goal is to provide everyone with equal oppertunity in
+          AccessiLaw our main goal is to provide everyone with equal oppertunity in
           any legal challenge.
         </p>
       </div>

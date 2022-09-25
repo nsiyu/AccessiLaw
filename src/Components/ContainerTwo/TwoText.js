@@ -6,7 +6,7 @@ const TextTwo = () => {
       <h1 id = 'about'className="two-h1">Works Where You Do</h1>
       <p className="two-p">
         Recieve accurate legal definitions and supported translations from
-        AccessLaw while you browse through legal documents. Access Law is free
+        AccessiLaw while you browse through legal documents. AccessiLaw is free
         for everyone regardless of race, gender, or socioeconomic status.
       </p>
     </div>
